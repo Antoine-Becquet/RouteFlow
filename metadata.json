@@ -1,0 +1,6 @@
+{
+  "name": "RouteFlow Pro",
+  "description": "Application d'optimisation de tournées avec gestion de trafic temps réel et contraintes horaires pour livreurs et techniciens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

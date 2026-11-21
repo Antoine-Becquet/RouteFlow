@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">RouteFlow Pro</string>
+
+    <!-- Android Auto -->
+    <string name="car_tour_title">Ma tournée</string>
+    <string name="car_empty_tour">Aucun arrêt planifié. Ajoutez des adresses sur le téléphone ou via Outils.</string>
+    <string name="car_section_pending">À faire (%1$d)</string>
+    <string name="car_section_completed">Terminés (%1$d)</string>
+    <string name="car_action_next">Prochain</string>
+    <string name="car_action_tools">Outils</string>
+    <string name="car_action_navigate">Y aller</string>
+    <string name="car_action_complete">Terminer</string>
+    <string name="car_action_reopen">Rouvrir</string>
+    <string name="car_action_read_aloud">Lire</string>
+    <string name="car_action_next_stop">Suivant</string>
+    <string name="car_tools_title">Outils de tournée</string>
+    <string name="car_tool_map_title">Carte des arrêts</string>
+    <string name="car_tool_map_subtitle">Afficher les arrêts restants sur la carte</string>
+    <string name="car_tool_optimize_title">Réoptimiser la tournée</string>
+    <string name="car_tool_optimize_subtitle">Recalculer l\'ordre selon les priorités et créneaux</string>
+    <string name="car_tool_favorites_title">Adresses favorites</string>
+    <string name="car_tool_favorites_subtitle">Ajouter un lieu enregistré à la tournée</string>
+    <string name="car_tool_search_title">Rechercher une adresse</string>
+    <string name="car_tool_search_subtitle">Dictée vocale ou saisie à l\'arrêt</string>
+    <string name="car_map_title">Carte de la tournée</string>
+    <string name="car_map_empty">Tous les arrêts sont terminés.</string>
+    <string name="car_favorites_title">Adresses favorites</string>
+    <string name="car_favorites_empty">Aucune adresse favorite enregistrée sur le téléphone.</string>
+    <string name="car_search_hint">Rechercher une adresse...</string>
+    <string name="car_search_prompt">Dictez ou saisissez une adresse (au moins 3 caractères).</string>
+    <string name="car_search_no_results">Aucune adresse trouvée.</string>
+    <string name="car_detail_address">Adresse</string>
+    <string name="car_detail_schedule">Horaires</string>
+    <string name="car_detail_status">Priorité et statut</string>
+    <string name="car_detail_notes">Consignes</string>
+    <string name="car_status_pending">À faire</string>
+    <string name="car_status_completed">Terminé</string>
+    <string name="car_priority_high">Priorité haute</string>
+    <string name="car_priority_normal">Priorité normale</string>
+    <string name="car_priority_low">Priorité basse</string>
+    <string name="car_toast_all_completed">Tous les arrêts sont déjà terminés.</string>
+    <string name="car_toast_stop_completed">Arrêt marqué comme terminé.</string>
+    <string name="car_toast_stop_reopened">Arrêt remis en cours.</string>
+    <string name="car_toast_optimized">Tournée réoptimisée.</string>
+    <string name="car_toast_optimize_empty">Aucun arrêt à réoptimiser.</string>
+    <string name="car_toast_added_to_tour">Arrêt ajouté à la tournée.</string>
+    <string name="car_toast_nav_error">Impossible de lancer l\'application de navigation.</string>
+    <string name="car_toast_tts_unavailable">Lecture vocale indisponible.</string>
+    <string name="car_stop_not_found">Arrêt introuvable.</string>
+</resources>
